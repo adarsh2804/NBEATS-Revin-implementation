@@ -7,4 +7,4 @@ To use this repo:-
 2. Installation:- 
 !pip install nbeats_forecast
 
-3. Use the notebook RevIN_NBEATS.ipynb to implement the model on the datasets present in dataset50 folder.
+3. Use the notebook RevIN_NBEATS.ipynb to implement the model on the datasets present in dataset50 folder. The plots of the forecasted series will be saved in the current working directory.
